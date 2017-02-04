@@ -1,0 +1,5 @@
+
+interface phoneInterface
+{
+	void call();
+}
